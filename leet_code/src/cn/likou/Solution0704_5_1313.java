@@ -1,6 +1,6 @@
 package cn.likou;
 
-public class ·Solution0704_5_1313 {
+public class Solution0704_5_1313 {
     public static int[] decompressRLElist(int[] nums) {
         if(nums.length<=1){
             return null;
